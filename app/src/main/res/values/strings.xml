@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Billi</string>
+    <string name="register"><b>Login</b></string>
+    <string name="dintregister"><font fgcolor='#988F8F'>Don’t have an account? </font></string>
+    <string name="signuptext"><b><font fgcolor='#CB3D3D'>Sign up</font></b></string>
+    <string name="logintext"><b><font fgcolor='#CB3D3D'>Login</font></b></string>
+    <string name="dologin"><font fgcolor='#988F8F'>Already have an account?  </font></string>
+</resources>
